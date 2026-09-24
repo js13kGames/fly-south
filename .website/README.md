@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - casual
 post: https://chrpaul.de/posts/2017-09-15-js13kgames-a-frame-jam/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
